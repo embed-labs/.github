@@ -4,7 +4,7 @@
 <br>
 
 <img width="100%" src="../assets/embed_logo.png" alt="Logo Embed">
-<img width="100%" src="../assets/embed_hero_image.png" alt="Uma ilustração mostrando vários dispositivos de pagamento como maquininhas, smartphones e desktops, conectados por uma rede de símbolos de pagamento como Pix, cartões e vouchers. O fundo mostra monumentos icônicos do Brasil, como o Cristo Redentor e o Pão de Açúcar.">
+<!-- <img width="100%" src="../assets/embed_hero_image.png" alt="Uma ilustração mostrando vários dispositivos de pagamento como maquininhas, smartphones e desktops, conectados por uma rede de símbolos de pagamento como Pix, cartões e vouchers. O fundo mostra monumentos icônicos do Brasil, como o Cristo Redentor e o Pão de Açúcar."> -->
 
 <br>
 
