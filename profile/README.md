@@ -1,6 +1,12 @@
 ## Oi, somos a Embed 👋
 
-![Uma ilustração mostrando vários dispositivos de pagamento como maquininhas, smartphones e desktops, conectados por uma rede de símbolos de pagamento como Pix, cartões e vouchers. O fundo mostra monumentos icônicos do Brasil, como o Cristo Redentor e o Pão de Açúcar.](https://via.placeholder.com/800x400.png)
+<!-- ![Uma ilustração mostrando vários dispositivos de pagamento como maquininhas, smartphones e desktops, conectados por uma rede de símbolos de pagamento como Pix, cartões e vouchers. O fundo mostra monumentos icônicos do Brasil, como o Cristo Redentor e o Pão de Açúcar.](../assets/embed_hero_image.png) -->
+<br>
+
+<img width="100%" src="../assets/embed_logo.png" alt="Logo Embed">
+<img width="100%" src="../assets/embed_hero_image.png" alt="Uma ilustração mostrando vários dispositivos de pagamento como maquininhas, smartphones e desktops, conectados por uma rede de símbolos de pagamento como Pix, cartões e vouchers. O fundo mostra monumentos icônicos do Brasil, como o Cristo Redentor e o Pão de Açúcar.">
+
+<br>
 
 Sim, estamos simplificando pagamentos no Brasil. Desde o nosso primeiro commit em **outubro de 2023**, trabalhamos duro para criar soluções que tornam a integração de métodos de pagamento um processo tranquilo e unificado. Até agora, já desenvolvemos bibliotecas e aplicativos e conectamos **mais de 4 métodos de pagamento** de **4 fornecedores diferentes**! 🤯 Mas isso é só o começo. Estamos empolgados por fazer parte do dia a dia de desenvolvedores, empresas e inovadores por todo o Brasil 🇧🇷.
 
